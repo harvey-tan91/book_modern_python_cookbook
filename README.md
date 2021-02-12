@@ -1,2 +1,2 @@
-# book_modern_python_cookbook
- Contain code snippets from the book "Modern Python Cookbook"
+# Modern Python Cookbook
+ Contain code snippets and notes about the book "Modern Python Cookbook" from Steven F. Lott
